@@ -1,0 +1,15 @@
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\RealGame.exe
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\RealGame.deps.json
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\RealGame.runtimeconfig.json
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\RealGame.dll
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\ref\RealGame.dll
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\RealGame.pdb
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.csproj.AssemblyReference.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.AssemblyInfoInputs.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.AssemblyInfo.cs
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.csproj.CoreCompileInputs.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.dll
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\ref\RealGame.dll
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.pdb
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\RealGame.genruntimeconfig.cache

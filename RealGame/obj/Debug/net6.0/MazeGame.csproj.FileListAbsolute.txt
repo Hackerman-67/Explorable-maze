@@ -1,0 +1,15 @@
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\MazeGame.exe
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\MazeGame.deps.json
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\MazeGame.runtimeconfig.json
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\MazeGame.dll
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\ref\MazeGame.dll
+C:\projects\RealGame\RealGame\bin\Debug\net6.0\MazeGame.pdb
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.csproj.AssemblyReference.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.AssemblyInfoInputs.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.AssemblyInfo.cs
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.csproj.CoreCompileInputs.cache
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.dll
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\ref\MazeGame.dll
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.pdb
+C:\projects\RealGame\RealGame\obj\Debug\net6.0\MazeGame.genruntimeconfig.cache
