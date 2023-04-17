@@ -1,4 +1,4 @@
-# -Explorable-maze-
+# :mag:Explorable-maze:key:
 Simple C# console application
 --------------------------------------------------
 Start the game: RealGame\bin\Release\MazeGame.exe
